@@ -7,4 +7,8 @@ Note: Ensure you are on directory where Docker file exists.
 
 docker run -t autodevops:v1 .
 
+# buildspec.yaml reference is found below.
+
+https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html
+
 
